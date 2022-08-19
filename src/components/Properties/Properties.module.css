@@ -1,0 +1,9 @@
+.products ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  justify-content: center;
+  grid-column-gap: 1px;
+  grid-template-columns: repeat(3, 400px);
+}
