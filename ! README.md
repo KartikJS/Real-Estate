@@ -14,6 +14,8 @@ Here is link to the API I used : https://rapidapi.com/apidojo/api/bayut
 
 - Redesigning Filter Tab.
 
+- Using Swiper functionality while viewing properties so user can swipe through pictures without opening the product page
+
 # Few Missing Features and Drawbacks
 
 - Location Search needs to be implemented
