@@ -16,7 +16,9 @@ Here is link to the API I used : https://rapidapi.com/apidojo/api/bayut
 
 - Using Swiper functionality while viewing properties so user can swipe through pictures without opening the product page
 
-- Website for now is not responsive I plan to add media queries in future.
+- Website for now is not responsive I plan to add media queries soon.
+
+- CSS structure needs some improvements
 
 # Few Missing Features and Drawbacks
 
