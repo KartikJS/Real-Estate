@@ -18,6 +18,8 @@ Here is link to the API I used : https://rapidapi.com/apidojo/api/bayut
 
 # Few Missing Features and Drawbacks
 
+- Note API only has 500 request per month if it doesnt work you can get it from above link or you can contact me.
+- 
 - Location Search needs to be implemented
 
 - User can select Min Value more than value of Max(doesnt display any results) which will be fixed in future (in Price and Area).
