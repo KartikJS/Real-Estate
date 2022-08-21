@@ -17,7 +17,7 @@
   justify-content: space-between;
   margin-bottom: 4rem;
 }
-
+/* delete /
 .item:last-of-type {
   border-bottom: none;
 }
@@ -43,4 +43,4 @@
 .item figcaption {
   font-style: italic;
   color: #566d6d;
-}
+} */
