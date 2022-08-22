@@ -1,6 +1,8 @@
+# NOTE THIS IS THE IMPROVED VERISON OF ORIGINAL SUBMISSION
+
 # Used Features
 
-useEffect for fetching data dynamically from bayut api( Bayut is popular real estate website from UAE)
+Axios for fetching data dynamically from bayut api( Bayut is popular real estate website from UAE)
 Didnt used Global State Management like Redux/Context API as there werent many components that needed to be updated.
 Here is link to the API I used : https://rapidapi.com/apidojo/api/bayut
 
