@@ -8,20 +8,6 @@ body {
   background-color: #e7f8f8;
 }
 
-.centered {
-  margin: 3rem auto;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.focused {
-  font-size: 3rem;
-  font-weight: bold;
-  color: white;
-}
-
 .btn {
   text-decoration: none;
   background-color: #2c3e50;

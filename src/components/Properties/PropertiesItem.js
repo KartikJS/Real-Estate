@@ -3,7 +3,6 @@ import classes from "./PropertiesItem.module.css";
 import { Link } from "react-router-dom";
 import DefaultImage from "../../img/defaultImage.jpeg";
 import millify from "millify";
-// import "boxicons";
 
 const PropertiesItem = ({
   propertyData: {

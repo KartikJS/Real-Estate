@@ -6,14 +6,14 @@ const MainNavigation = () => {
   return (
     <header className={classes.header}>
       <nav className={classes.nav}>
-        <NavLink to="/search?purpose=for-rent">
+        <NavLink to="/search/purpose/for-rent">
           <img src={Logo} alt="logo" className={classes.reunion} />
         </NavLink>
 
         <ul>
           <li>
             <NavLink
-              to="/search?purpose=for-rent"
+              to="/search/purpose/for-rent"
               className={({ isActive }) =>
                 isActive ? "classes-active" : "none"
               }
@@ -24,7 +24,7 @@ const MainNavigation = () => {
 
           <li>
             <NavLink
-              to="/search/*"
+              to="/search/purpose/for-buy"
               className={({ isActive }) =>
                 isActive ? "classes.active" : "none"
               }
@@ -34,7 +34,7 @@ const MainNavigation = () => {
           </li>
           <li>
             <NavLink
-              to="/search/*"
+              to="/search/purpose/for-sell"
               className={({ isActive }) =>
                 isActive ? "classes.active" : "none"
               }
@@ -44,7 +44,7 @@ const MainNavigation = () => {
           </li>
           <li>
             <NavLink
-              to="/search/*"
+              to="/search/purpose/for-managingproperties"
               className={({ isActive }) =>
                 isActive ? "classes.active" : "none"
               }
@@ -54,7 +54,7 @@ const MainNavigation = () => {
           </li>
           <li>
             <NavLink
-              to="/search/*"
+              to="/search/purpose/for-resources"
               className={({ isActive }) =>
                 isActive ? "classes.active" : "none"
               }

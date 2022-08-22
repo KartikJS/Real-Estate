@@ -3,7 +3,6 @@
   padding: 2rem;
   width: 100%;
   display: flex;
-  flex-wrap: wrap;
   gap: 1.5rem;
   justify-content: center;
   align-items: flex-end;
@@ -16,31 +15,4 @@
   align-items: center;
   justify-content: space-between;
   margin-bottom: 4rem;
-}
-
-.item:last-of-type {
-  border-bottom: none;
-}
-
-.item figure {
-  margin: 0;
-  padding: 0;
-  width: 70%;
-}
-
-.item blockquote {
-  margin: 0;
-  text-align: left;
-  font-size: 1.5rem;
-  color: #212929;
-}
-
-.item p {
-  margin: 0;
-  margin-bottom: 0.25rem;
-}
-
-.item figcaption {
-  font-style: italic;
-  color: #566d6d;
 }

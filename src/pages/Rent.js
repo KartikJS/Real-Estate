@@ -9,7 +9,6 @@ const Rent = () => {
       <div className={classes.search}>
         <h1>Search properties to rent</h1>
       </div>
-
       <FilterProperties />
       <Properties />
     </Fragment>
